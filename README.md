@@ -74,10 +74,29 @@ Kısacası; problemlere yaratıcı çözümler getiren, öğrenmeye meraklı ve 
 
 ---
 
-## 📫 İletişim  
-- ✉️ cemozdemirr@outlook.com.tr
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cem-%C3%B6zdemir-7006b5198/)
+<!-- ### 🛠️ Geliştirme Araçları – Yeterlilik Seviyem
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-66%25-2496ED?style=flat-square&logo=docker" alt="Docker %66" />
+  <img src="https://img.shields.io/badge/VS%20Code-85%25-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code %85" />
+  <img src="https://img.shields.io/badge/NPM-75%25-CB3837?style=flat-square&logo=npm" alt="NPM %75" />
+  <img src="https://img.shields.io/badge/Postman-70%25-FF6C37?style=flat-square&logo=postman" alt="Postman %70" />
+  <img src="https://img.shields.io/badge/n8n-50%25-000000?style=flat-square&logo=n8n" alt="n8n %50" />
+</p>
+-->
+
+## 📫 İletişim & Sosyal Ağlar
+
+<p align="center">
+  <a href="mailto:cemozdemirr@outlook.com.tr">
+    <img src="https://img.shields.io/badge/Email-cemozdemirr%40outlook.com.tr-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cem-özdemir-7006b5198/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cem%20Özdemir-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cemozdemir">
+    <img src="https://img.shields.io/github/followers/cemozdemir?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p><br/>
 
 > “Kod, en iyi kaliteyle konuştuğunda; insanlar onu okumayı sever.”  
