@@ -1,16 +1,31 @@
-## Hi there 👋
+░▒▓🌟░▒▓ **C E M  Ö Z D E M İ R** ▓▒░🌟░▒▓  
+▶️ **Full‑Stack Software Engineer** | 🚀 Yenilik Avcısı | 🛠️ Çözüm Ortağı  
 
-<!--
-**cemozdemir2/cemozdemir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────────────────  
+✨ **Yetenek Havuzum**  
+├─ 🐍 **Python & Flask** ile serverless REST API’ler (AWS Lambda, API Gateway)  
+├─ ⚙️ **Node.js & Express** tabanlı mikroservis mimarileri  
+├─ ⚛️ **Vue.js & TailwindCSS** ile modern, responsive arayüzler  
+├─ 🗄️ **MS SQL & FOR XML** uzmanlığıyla güçlü veri modellemeleri  
+├─ 🔒 Kod kalitesi & test otomasyonu (pytest, Jest)  
+├─ 🏗️ CI/CD entegrasyonları (GitHub Actions, Docker)  
 
-Here are some ideas to get you started:
+────────────────────────────────────────────  
+🔥 **Tutkum & Değerlerim**  
+➤ **Temiz Kod**: Okunabilir, sürdürülebilir, yorum satırı ihtiyacı az  
+➤ **Performans**: Her milisaniyeyi önemsiyorum  
+➤ **İşbirliği**: Şeffaf iletişim ve ekip sinerjisi  
+➤ **Sürekli Öğrenme**: Yeni teknoloji, araç ve metodolojiler peşinde  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────  
+📚 **Öne Çıkan Projeler & Başarılar**  
+• ▶️ “Serverless Türkçe Sözlük” – 100K+ aylık istek, <100 ms yanıt süresi  
+• ▶️ “Gerçek Zamanlı Chat Uygulaması” – WebSocket, Redis ile ölçeklenebilir yapı  
+• ▶️ “Veri Analitik Paneli” – MS SQL, FOR XML & D3.js ile görselleştirme  
+
+────────────────────────────────────────────  
+📫 **İletişim & Ağ**  
+✉️ cem.ozdemir@palcon.com.tr  
+🔗 [LinkedIn](https://www.linkedin.com/in/cem-ozdemir) | [Twitter](https://twitter.com/cemozdemir)  
+
+░▒▓✨ “Kod, en iyi kaliteyle konuştuğunda; insanlar onu okumayı sever.” ✨▓▒░  
