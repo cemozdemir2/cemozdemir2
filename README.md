@@ -21,6 +21,7 @@ Kısacası; problemlere yaratıcı çözümler getiren, öğrenmeye meraklı ve 
 <p>
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40"/>  
   <img src="https://www.svgrepo.com/show/355146/npm.svg" alt="NPM" height="40"/>  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="40"/>  
   <img src="https://cdn.simpleicons.org/n8n/eb4b71" alt="n8n" height="40"/>  
