@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 Hakkımda  
-Merhaba! Ben Cem, kahve kokusu eşliğinde kod satırlarıyla dans eden bir Full‑Stack Mühendisiyim. ☕💻 Serverless dünyasında AWS Lambda ile küçük ama güçlü REST API’ler yaratmayı, aynı zamanda mikroservis mimarileriyle esnek ve sürdürülebilir sistemler kurmayı seviyorum.  
+Merhaba! Ben Cem, kahve kokusu eşliğinde kod satırlarıyla dans eden bir Full‑Stack yazılımcısıyım. ☕💻 Serverless dünyasında AWS Lambda ile küçük ama güçlü REST API’ler yaratmayı, aynı zamanda mikroservis mimarileriyle esnek ve sürdürülebilir sistemler kurmayı seviyorum.  
 
 Ön yüz tarafında kullanıcı yolculuğunu ön planda tutarak Vue.js ve Bootstrap ile hem göze hem de klavyeye hitap eden arayüzler geliştiriyorum. 🎨✨ Veritabanı katmanında ise MS SQL’den PostgreSQL’e, MySQL’den phpMyAdmin’e kadar çeşitli araçlarla veri modellerini şekillendiriyor, FOR XML ile karmaşık sorgulara hayat veriyorum.  
 
