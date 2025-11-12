@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Cem Özdemir
 
-[![GitHub Followers](https://img.shields.io/github/followers/cemozdemir?label=Takip&style=social)](https://github.com/cemozdemir)
+[![GitHub Followers](https://img.shields.io/github/followers/cemozdemir2?label=Takip&style=social)](https://github.com/cemozdemir)
 
 ---
 
