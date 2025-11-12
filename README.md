@@ -95,7 +95,7 @@ Kısacası; problemlere yaratıcı çözümler getiren, öğrenmeye meraklı ve 
   <a href="https://www.linkedin.com/in/cem-özdemir-7006b5198/">
     <img src="https://img.shields.io/badge/LinkedIn-Cem%20Özdemir-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/cemozdemir">
+  <a href="https://github.com/cemozdemir2">
     <img src="https://img.shields.io/github/followers/cemozdemir?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </p><br/>
